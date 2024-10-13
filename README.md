@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birgulyuksel
-- 👀 I’m interested in front-end :)
-- 🌱 I’m currently learning Bootstrap 
+- 👀 I’m interested in everything :)
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on HTML/CSS/Python
 - 📫 How to reach me birgulyksel@gmail.com
 
